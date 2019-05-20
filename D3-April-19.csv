@@ -1,14 +1,4 @@
 ﻿name,value,year,last value,rank
-The Walking Dead,731645,0,731645,0
-Avengers: Endgame,560852,0,560852,1
-Game of Thrones,159653,0,159653,2
-"The Comedian + Nightmare at 30,000 Feet",92170,0,92170,3
-Gotham,88016,0,88016,4
-The Storm,81356,0,81356,5
-Borderlands 3,57024,0,57024,6
-Batman vs. Teenage Mutant Ninja Turtles,54252,0,54252,7
-Captain Marvel,47103,0,47103,8
-Frozen 2,35456,0,35456,9
 The Walking Dead,731645,1,731645,0
 Avengers: Endgame,560852,1,560852,1
 Game of Thrones,159653,1,159653,2
@@ -19,293 +9,303 @@ Borderlands 3,57024,1,57024,6
 Batman vs. Teenage Mutant Ninja Turtles,54252,1,54252,7
 Captain Marvel,47103,1,47103,8
 Frozen 2,35456,1,35456,9
-Avengers: Endgame,520182,2,560852,0
-The Walking Dead,327070,2,731645,1
-Darkborn,219757,2,#N/A,2
-Game of Thrones,121815,2,159653,3
-Joker,116687,2,#N/A,4
-Borderlands,101968,2,#N/A,5
-Gotham,95778,2,88016,6
-Game of Thrones: Season 8,51456,2,#N/A,7
-The Umbrella Academy,47465,2,#N/A,8
-Cyberpunk 2077,45471,2,#N/A,9
-Avengers: Endgame,696292,3,520182,0
-Borderlands 3,277526,3,#N/A,1
-Game of Thrones,130557,3,121815,2
-Joker,118728,3,116687,3
-Ultraman,84341,3,#N/A,4
-Wonder Woman 1984,78078,3,#N/A,5
-Darkborn,74363,3,219757,6
-Hearthstone: Heroes of WarCraft,61084,3,#N/A,7
-Stephen King's IT Chapter Two,46228,3,#N/A,8
-Gotham,43959,3,95778,9
-Terminator: Dark Fate,1112314,4,#N/A,0
-Avengers: Endgame,278343,4,696292,1
-Game of Thrones,242389,4,130557,2
-Hearthstone: Heroes of WarCraft,105641,4,61084,3
-Wonder Woman 1984,78113,4,78078,4
-Battlefield V,67767,4,#N/A,5
-Sonic the Hedgehog: The Movie,63597,4,#N/A,6
-Cowboy Bebop [live-action],61794,4,#N/A,7
-The Lion King,60499,4,#N/A,8
-Shazam!,54101,4,54101,9
-Terminator: Dark Fate,179525,5,1112314,0
-Game of Thrones,159661,5,242389,1
-Shazam!,153924,5,54101,2
-Avengers: Endgame,133965,5,278343,3
-Unicorn Store,99039,5,#N/A,4
-Borderlands 3,89249,5,#N/A,5
-Stranger Things,87118,5,#N/A,6
-Dragon Ball Z,86946,5,#N/A,7
-The Witcher,75409,5,#N/A,8
-Our Planet,66017,5,66017,9
-Game of Thrones,154125,6,159661,0
-Shazam!,100855,6,153924,1
-The Witcher,82295,6,75409,2
-Avengers: Endgame,77656,6,133965,3
-Unicorn Store,56320,6,99039,4
-Terminator: Dark Fate,55398,6,179525,5
-Sekiro: Shadows Die Twice,51509,6,#N/A,6
-Borderlands 3,45667,6,89249,7
-Dragon Ball Z,32128,6,86946,8
-Captain Marvel,28257,6,#N/A,9
-Game of Thrones,374286,7,154125,0
-Avengers: Endgame,229670,7,77656,1
-Shazam!,220789,7,100855,2
-Game of Thrones: Season 8,82090,7,#N/A,3
-WrestleMania 35,79806,7,#N/A,4
-The Walking Dead,41393,7,#N/A,5
-Terminator: Dark Fate,34596,7,55398,6
-The Witcher,29110,7,82295,7
-Sekiro: Shadows Die Twice,24506,7,51509,8
-Captain Marvel,16949,7,28257,9
-Avengers: Endgame,448262,8,229670,0
-The Walking Dead,142306,8,41393,1
-Game of Thrones,139161,8,374286,2
-Tom Clancy,97592,8,#N/A,3
-Dangerous Driving,94444,8,#N/A,4
-Shazam!,93540,8,220789,5
-Guardians of the Galaxy Vol. 3,93442,8,#N/A,6
-Borderlands 3,91793,8,#N/A,7
-Wizards of the Coast,69593,8,#N/A,8
-Days Gone,68845,8,#N/A,9
-Game of Thrones,193955,9,139161,0
-Avengers: Endgame,178695,9,448262,1
-Fortnite,151299,9,#N/A,2
-Star Wars: The Rise of Skywalker,106948,9,#N/A,3
-Batman: Curse of the White Knight,101731,9,#N/A,4
-Star Wars: Jedi Fallen Order,88455,9,#N/A,5
-Richard Pryor: Live in Concert,57463,9,#N/A,6
-Borderlands 3,55050,9,91793,7
-Remnant: From the Ashes,53894,9,#N/A,8
-Falcon Age,41483,9,#N/A,9
-Into the Badlands,294004,10,#N/A,0
-Hellboy,197833,10,#N/A,1
-Avengers: Endgame,170594,10,178695,2
-Game of Thrones,97893,10,193955,3
-PlayStation 4 Pro,88375,10,#N/A,4
-The Silence,57119,10,#N/A,5
-Star Wars: Jedi Fallen Order,48704,10,88455,6
-Shazam!,48703,10,#N/A,7
-Borderlands 3,48428,10,55050,8
-Fortnite,44050,10,151299,9
-Disney+,303227,11,#N/A,0
-Game of Thrones,256074,11,97893,1
-Hellboy,160735,11,197833,2
-Into the Badlands,153759,11,294004,3
-Avengers: Endgame,139532,11,170594,4
-Star Wars: Jedi Fallen Order,101619,11,48704,5
-Mark Hamill,64798,11,#N/A,6
-Borderlands 3,62486,11,48428,7
-Earth Defense Force: Iron Rain,62286,11,#N/A,8
-God of War,56511,11,#N/A,9
-Star Wars: The Rise of Skywalker,1011721,12,#N/A,0
-Disney+,172094,12,303227,1
-Game of Thrones,118721,12,256074,2
-Star Wars: Jedi Fallen Order,104882,12,101619,3
-Pokemon Detective Pikachu,85204,12,#N/A,4
-Borderlands 2,75522,12,#N/A,5
-Avengers: Endgame,74428,12,139532,6
-Star Wars -- David Benioff / D.B. Weiss Series,46266,12,#N/A,7
-Titans,44891,12,#N/A,8
-Black Summer: Season 1,41582,12,#N/A,9
-Star Wars: Jedi Fallen Order,1105224,13,104882,0
-Star Wars: The Rise of Skywalker,438522,13,1011721,1
-Game of Thrones,132536,13,118721,2
-Star Wars: The Mandalorian,108412,13,#N/A,3
-Disney+,85605,13,172094,4
-Pokemon Detective Pikachu,45940,13,85204,5
-Avengers: Endgame,44968,13,74428,6
-Star Trek: Discovery,40369,13,#N/A,7
-Black Summer: Season 1,38938,13,41582,8
-Star Wars Rebels,38611,13,#N/A,9
-Game of Thrones,593913,14,132536,0
-Star Wars: Jedi Fallen Order,469119,14,1105224,1
-Star Wars: The Rise of Skywalker,274585,14,438522,2
-Winterfell,216938,14,#N/A,3
-Star Wars: The Mandalorian,184702,14,108412,4
-Star Wars: The Clone Wars,88459,14,#N/A,5
-Game of Thrones: Season 8,57097,14,#N/A,6
-Disney+,26261,14,85605,7
-Star Wars Rebels,24922,14,38611,8
-Shazam!,22672,14,#N/A,9
-Game of Thrones,720206,15,593913,0
-Winterfell,359668,15,216938,1
-Star Wars: Jedi Fallen Order,345342,15,469119,2
-Game of Thrones: Season 8,252669,15,57097,3
-Star Wars: The Rise of Skywalker,229715,15,274585,4
-Star Wars Knights of the Old Republic III [rumored],176189,15,#N/A,5
-A Game of Thrones,145222,15,#N/A,6
-The Flash,127998,15,#N/A,7
-Star Wars: The Mandalorian,108830,15,184702,8
-Magic: The Gathering Arena,48234,15,#N/A,9
-PlayStation 5,497792,16,#N/A,0
-Game of Thrones,288648,16,720206,1
-Star Wars: The Rise of Skywalker,202686,16,229715,2
-Avengers: Infinity War,99255,16,#N/A,3
-Xbox One S All-Digital Edition,79341,16,#N/A,4
-Game of Thrones: Season 8,78042,16,252669,5
-Xbox One X,74807,16,#N/A,6
-Winterfell,68016,16,359668,7
-A Game of Thrones,63847,16,145222,8
-Super Smash Bros. Ultimate,59135,16,#N/A,9
-Game of Thrones: Season 8,759534,17,78042,0
-PlayStation 5,206827,17,497792,1
-Game of Thrones,127011,17,288648,2
-Star Wars: The Rise of Skywalker,109259,17,202686,3
-Swamp Thing,88175,17,#N/A,4
-Halo - Steven Spielberg Project,86360,17,#N/A,5
-The Witcher,76040,17,#N/A,6
-Super Smash Bros. Ultimate,70485,17,59135,7
-Godspeed,49468,17,#N/A,8
-The Gifted,46715,17,#N/A,9
-Game of Thrones: Season 8,283109,18,759534,0
-Thor: Ragnarok,178396,18,#N/A,1
-Jason Momoa,114138,18,#N/A,2
-Borderlands 3,110217,18,#N/A,3
-SEGA Genesis Mini,100450,18,#N/A,4
-The Gifted,99132,18,46715,5
-They Did What?,96691,18,#N/A,6
-Game of Thrones,93873,18,127011,7
-Super Smash Bros. Ultimate: Joker Challenger Pack,63958,18,#N/A,8
-Katana Zero,59949,18,#N/A,9
-Mortal Kombat 11,421417,19,#N/A,0
-They Did What?,164792,19,96691,1
-Pokemon Detective Pikachu,135283,19,#N/A,2
-Disney+,108162,19,#N/A,3
-SEGA Genesis Mini,83273,19,100450,4
-Grand Theft Auto V,80402,19,#N/A,5
-Game of Thrones: Season 8,78882,19,283109,6
-Thor: Ragnarok,69269,19,178396,7
-Wonder Woman 1984,66659,19,#N/A,8
-"Such Sweet Sorrow, Part 2",61868,19,#N/A,9
-Mortal Kombat 11,399373,20,421417,0
-Game of Thrones: Season 8,61875,20,78882,1
-Avengers: Endgame,60561,20,#N/A,2
-God of War,50525,20,#N/A,3
-Pokemon Detective Pikachu,40789,20,135283,4
-Game of Thrones,33947,20,#N/A,5
-Disney+,33592,20,108162,6
-SEGA Genesis Mini,32973,20,83273,7
-Shazam!,32860,20,#N/A,8
-Netflix,29214,20,#N/A,9
-Mortal Kombat 11,262323,21,399373,0
-Game of Thrones,168603,21,33947,1
-Game of Thrones: Season 8,159884,21,61875,2
-A Knight of the Seven Kingdoms,131493,21,#N/A,3
-Avengers: Endgame,78057,21,60561,4
-Avengers: Infinity War,48852,21,#N/A,5
-Red Dead Redemption 2,32261,21,#N/A,6
-God of War,29959,21,50525,7
-Shazam!,21185,21,32860,8
-Other,19145,21,#N/A,9
-Mortal Kombat 11,493240,22,262323,0
-Game of Thrones,485151,22,168603,1
-Game of Thrones: Season 8,473621,22,159884,2
-A Knight of the Seven Kingdoms,138171,22,131493,3
-Avengers: Endgame,87690,22,78057,4
-Red Dead Redemption 2,79558,22,32261,5
-Samsung,43436,22,#N/A,6
-Kingdom Hearts III,39256,22,#N/A,7
-Other,23536,22,19145,8
-Fortnite,22702,22,#N/A,9
-Avengers: Endgame,525540,23,87690,0
-Mortal Kombat 11,158153,23,493240,1
-Game of Thrones: Season 8,136666,23,473621,2
-Game of Thrones,132027,23,485151,3
-SteamWorld Quest: Hand of Gilgamech,81759,23,#N/A,4
-Pokemon Detective Pikachu,62788,23,#N/A,5
-The Elder Scrolls: Blades,60926,23,#N/A,6
-Gotham,48282,23,#N/A,7
-Marvel's Spider-Man,38751,23,#N/A,8
-Arrow,33136,23,#N/A,9
-Game of Thrones: Season 8,543260,24,136666,0
-Avengers: Endgame,501238,24,525540,1
-World War Z,118178,24,#N/A,2
-Captain Marvel,110045,24,#N/A,3
-Call of Duty: Modern Warfare 3,100595,24,#N/A,4
-Mortal Kombat 11,90242,24,158153,5
-James Bond 25,83590,24,#N/A,6
-Netflix,77275,24,#N/A,7
-Pokemon Detective Pikachu,49888,24,62788,8
-Game of Thrones,48696,24,132027,9
-Days Gone,448889,25,#N/A,0
-Avengers: Endgame,413081,25,501238,1
-The Beginning...,158715,25,#N/A,2
-Gotham,145279,25,#N/A,3
-Game of Thrones: Season 8,141451,25,543260,4
-Mortal Kombat 11,108695,25,90242,5
-James Bond 25,87120,25,83590,6
-Imperator: Rome,48873,25,#N/A,7
-World War Z,36085,25,118178,8
-Cobra Kai,34936,25,#N/A,9
-Avengers: Endgame,912062,26,413081,0
-Once Upon a Time in Hollywood,222090,26,#N/A,1
-The Beginning...,151848,26,158715,2
-Days Gone,125235,26,448889,3
-Mortal Kombat 11,86731,26,108695,4
-Batman [2016 - Current],71531,26,#N/A,5
-Game of Thrones: Season 8,34306,26,141451,6
-Captain Marvel,30751,26,#N/A,7
-Pokemon Sword,30493,26,#N/A,8
-Borderlands 3,28519,26,#N/A,9
-Avengers: Endgame,1263584,27,912062,0
-Days Gone,57203,27,125235,1
-Game of Thrones: Season 8,50265,27,34306,2
-Batman [2016 - Current],32150,27,71531,3
-Mortal Kombat 11,31452,27,86731,4
-Borderlands 3,28092,27,28519,5
-Once Upon a Time in Hollywood,25808,27,222090,6
-Kingdom Hearts III,19522,27,#N/A,7
-Game of Thrones,16354,27,#N/A,8
-Nintendo Labo VR Kit,14060,27,#N/A,9
-Avengers: Endgame,1784111,28,1263584,0
-The Long Night,339238,28,#N/A,1
-Game of Thrones: Season 8,281445,28,50265,2
-Game of Thrones,277978,28,16354,3
-Dark Phoenix,128742,28,#N/A,4
-Kingdom Hearts III,44476,28,19522,5
-Captain Marvel,41093,28,#N/A,6
-Red Dead Redemption 2,36422,28,#N/A,7
-Days Gone,29905,28,57203,8
-Mortal Kombat 11,28022,28,31452,9
-Avengers: Endgame,1172176,29,1784111,0
-The Long Night,860866,29,339238,1
-Game of Thrones,588249,29,277978,2
-Game of Thrones: Season 8,243400,29,281445,3
-Spider-Man: Far From Home,89588,29,#N/A,4
-Avengers: Infinity War,57956,29,#N/A,5
-The Fast & The Furious 9,47265,29,#N/A,6
-Harry Potter and the Prisoner of Azkaban,42161,29,#N/A,7
-Other,36498,29,#N/A,8
-Days Gone,23515,29,29905,9
-Avengers: Endgame,1082962,30,1172176,0
-Game of Thrones,189785,30,588249,1
-Sonic the Hedgehog: The Movie,180490,30,#N/A,2
-Borderlands 3,167139,30,#N/A,3
-The Long Night,142417,30,860866,4
-Game of Thrones: Season 8,116398,30,243400,5
-Marvel's The Defenders,68492,30,#N/A,6
-Assassin's Creed Odyssey,35745,30,#N/A,7
-Nintendo Switch,27509,30,#N/A,8
-Mortal Kombat 11,24393,30,#N/A,9
+The Walking Dead,731645,2,731645,0
+Avengers: Endgame,560852,2,560852,1
+Game of Thrones,159653,2,159653,2
+"The Comedian + Nightmare at 30,000 Feet",92170,2,92170,3
+Gotham,88016,2,88016,4
+The Storm,81356,2,81356,5
+Borderlands 3,57024,2,57024,6
+Batman vs. Teenage Mutant Ninja Turtles,54252,2,54252,7
+Captain Marvel,47103,2,47103,8
+Frozen 2,35456,2,35456,9
+Avengers: Endgame,520182,3,560852,0
+The Walking Dead,327070,3,731645,1
+Darkborn,219757,3,#N/A,2
+Game of Thrones,121815,3,159653,3
+Joker,116687,3,#N/A,4
+Borderlands,101968,3,#N/A,5
+Gotham,95778,3,88016,6
+Game of Thrones: Season 8,51456,3,#N/A,7
+The Umbrella Academy,47465,3,#N/A,8
+Cyberpunk 2077,45471,3,#N/A,9
+Avengers: Endgame,696292,4,520182,0
+Borderlands 3,277526,4,#N/A,1
+Game of Thrones,130557,4,121815,2
+Joker,118728,4,116687,3
+Ultraman,84341,4,#N/A,4
+Wonder Woman 1984,78078,4,#N/A,5
+Darkborn,74363,4,219757,6
+Hearthstone: Heroes of WarCraft,61084,4,#N/A,7
+Stephen King's IT Chapter Two,46228,4,#N/A,8
+Gotham,43959,4,95778,9
+Terminator: Dark Fate,1112314,5,#N/A,0
+Avengers: Endgame,278343,5,696292,1
+Game of Thrones,242389,5,130557,2
+Hearthstone: Heroes of WarCraft,105641,5,61084,3
+Wonder Woman 1984,78113,5,78078,4
+Battlefield V,67767,5,#N/A,5
+Sonic the Hedgehog: The Movie,63597,5,#N/A,6
+Cowboy Bebop [live-action],61794,5,#N/A,7
+The Lion King,60499,5,#N/A,8
+Shazam!,54101,5,54101,9
+Terminator: Dark Fate,179525,6,1112314,0
+Game of Thrones,159661,6,242389,1
+Shazam!,153924,6,54101,2
+Avengers: Endgame,133965,6,278343,3
+Unicorn Store,99039,6,#N/A,4
+Borderlands 3,89249,6,#N/A,5
+Stranger Things,87118,6,#N/A,6
+Dragon Ball Z,86946,6,#N/A,7
+The Witcher,75409,6,#N/A,8
+Our Planet,66017,6,66017,9
+Game of Thrones,154125,7,159661,0
+Shazam!,100855,7,153924,1
+The Witcher,82295,7,75409,2
+Avengers: Endgame,77656,7,133965,3
+Unicorn Store,56320,7,99039,4
+Terminator: Dark Fate,55398,7,179525,5
+Sekiro: Shadows Die Twice,51509,7,#N/A,6
+Borderlands 3,45667,7,89249,7
+Dragon Ball Z,32128,7,86946,8
+Captain Marvel,28257,7,#N/A,9
+Game of Thrones,374286,8,154125,0
+Avengers: Endgame,229670,8,77656,1
+Shazam!,220789,8,100855,2
+Game of Thrones: Season 8,82090,8,#N/A,3
+WrestleMania 35,79806,8,#N/A,4
+The Walking Dead,41393,8,#N/A,5
+Terminator: Dark Fate,34596,8,55398,6
+The Witcher,29110,8,82295,7
+Sekiro: Shadows Die Twice,24506,8,51509,8
+Captain Marvel,16949,8,28257,9
+Avengers: Endgame,448262,9,229670,0
+The Walking Dead,142306,9,41393,1
+Game of Thrones,139161,9,374286,2
+Tom Clancy,97592,9,#N/A,3
+Dangerous Driving,94444,9,#N/A,4
+Shazam!,93540,9,220789,5
+Guardians of the Galaxy Vol. 3,93442,9,#N/A,6
+Borderlands 3,91793,9,#N/A,7
+Wizards of the Coast,69593,9,#N/A,8
+Days Gone,68845,9,#N/A,9
+Game of Thrones,193955,10,139161,0
+Avengers: Endgame,178695,10,448262,1
+Fortnite,151299,10,#N/A,2
+Star Wars: The Rise of Skywalker,106948,10,#N/A,3
+Batman: Curse of the White Knight,101731,10,#N/A,4
+Star Wars: Jedi Fallen Order,88455,10,#N/A,5
+Richard Pryor: Live in Concert,57463,10,#N/A,6
+Borderlands 3,55050,10,91793,7
+Remnant: From the Ashes,53894,10,#N/A,8
+Falcon Age,41483,10,#N/A,9
+Into the Badlands,294004,11,#N/A,0
+Hellboy,197833,11,#N/A,1
+Avengers: Endgame,170594,11,178695,2
+Game of Thrones,97893,11,193955,3
+PlayStation 4 Pro,88375,11,#N/A,4
+The Silence,57119,11,#N/A,5
+Star Wars: Jedi Fallen Order,48704,11,88455,6
+Shazam!,48703,11,#N/A,7
+Borderlands 3,48428,11,55050,8
+Fortnite,44050,11,151299,9
+Disney+,303227,12,#N/A,0
+Game of Thrones,256074,12,97893,1
+Hellboy,160735,12,197833,2
+Into the Badlands,153759,12,294004,3
+Avengers: Endgame,139532,12,170594,4
+Star Wars: Jedi Fallen Order,101619,12,48704,5
+Mark Hamill,64798,12,#N/A,6
+Borderlands 3,62486,12,48428,7
+Earth Defense Force: Iron Rain,62286,12,#N/A,8
+God of War,56511,12,#N/A,9
+Star Wars: The Rise of Skywalker,1011721,13,#N/A,0
+Disney+,172094,13,303227,1
+Game of Thrones,118721,13,256074,2
+Star Wars: Jedi Fallen Order,104882,13,101619,3
+Pokemon Detective Pikachu,85204,13,#N/A,4
+Borderlands 2,75522,13,#N/A,5
+Avengers: Endgame,74428,13,139532,6
+Star Wars -- David Benioff / D.B. Weiss Series,46266,13,#N/A,7
+Titans,44891,13,#N/A,8
+Black Summer: Season 1,41582,13,#N/A,9
+Star Wars: Jedi Fallen Order,1105224,14,104882,0
+Star Wars: The Rise of Skywalker,438522,14,1011721,1
+Game of Thrones,132536,14,118721,2
+Star Wars: The Mandalorian,108412,14,#N/A,3
+Disney+,85605,14,172094,4
+Pokemon Detective Pikachu,45940,14,85204,5
+Avengers: Endgame,44968,14,74428,6
+Star Trek: Discovery,40369,14,#N/A,7
+Black Summer: Season 1,38938,14,41582,8
+Star Wars Rebels,38611,14,#N/A,9
+Game of Thrones,593913,15,132536,0
+Star Wars: Jedi Fallen Order,469119,15,1105224,1
+Star Wars: The Rise of Skywalker,274585,15,438522,2
+Winterfell,216938,15,#N/A,3
+Star Wars: The Mandalorian,184702,15,108412,4
+Star Wars: The Clone Wars,88459,15,#N/A,5
+Game of Thrones: Season 8,57097,15,#N/A,6
+Disney+,26261,15,85605,7
+Star Wars Rebels,24922,15,38611,8
+Shazam!,22672,15,#N/A,9
+Game of Thrones,720206,16,593913,0
+Winterfell,359668,16,216938,1
+Star Wars: Jedi Fallen Order,345342,16,469119,2
+Game of Thrones: Season 8,252669,16,57097,3
+Star Wars: The Rise of Skywalker,229715,16,274585,4
+Star Wars Knights of the Old Republic III [rumored],176189,16,#N/A,5
+A Game of Thrones,145222,16,#N/A,6
+The Flash,127998,16,#N/A,7
+Star Wars: The Mandalorian,108830,16,184702,8
+Magic: The Gathering Arena,48234,16,#N/A,9
+PlayStation 5,497792,17,#N/A,0
+Game of Thrones,288648,17,720206,1
+Star Wars: The Rise of Skywalker,202686,17,229715,2
+Avengers: Infinity War,99255,17,#N/A,3
+Xbox One S All-Digital Edition,79341,17,#N/A,4
+Game of Thrones: Season 8,78042,17,252669,5
+Xbox One X,74807,17,#N/A,6
+Winterfell,68016,17,359668,7
+A Game of Thrones,63847,17,145222,8
+Super Smash Bros. Ultimate,59135,17,#N/A,9
+Game of Thrones: Season 8,759534,18,78042,0
+PlayStation 5,206827,18,497792,1
+Game of Thrones,127011,18,288648,2
+Star Wars: The Rise of Skywalker,109259,18,202686,3
+Swamp Thing,88175,18,#N/A,4
+Halo - Steven Spielberg Project,86360,18,#N/A,5
+The Witcher,76040,18,#N/A,6
+Super Smash Bros. Ultimate,70485,18,59135,7
+Godspeed,49468,18,#N/A,8
+The Gifted,46715,18,#N/A,9
+Game of Thrones: Season 8,283109,19,759534,0
+Thor: Ragnarok,178396,19,#N/A,1
+Jason Momoa,114138,19,#N/A,2
+Borderlands 3,110217,19,#N/A,3
+SEGA Genesis Mini,100450,19,#N/A,4
+The Gifted,99132,19,46715,5
+They Did What?,96691,19,#N/A,6
+Game of Thrones,93873,19,127011,7
+Super Smash Bros. Ultimate: Joker Challenger Pack,63958,19,#N/A,8
+Katana Zero,59949,19,#N/A,9
+Mortal Kombat 11,421417,20,#N/A,0
+They Did What?,164792,20,96691,1
+Pokemon Detective Pikachu,135283,20,#N/A,2
+Disney+,108162,20,#N/A,3
+SEGA Genesis Mini,83273,20,100450,4
+Grand Theft Auto V,80402,20,#N/A,5
+Game of Thrones: Season 8,78882,20,283109,6
+Thor: Ragnarok,69269,20,178396,7
+Wonder Woman 1984,66659,20,#N/A,8
+"Such Sweet Sorrow, Part 2",61868,20,#N/A,9
+Mortal Kombat 11,399373,21,421417,0
+Game of Thrones: Season 8,61875,21,78882,1
+Avengers: Endgame,60561,21,#N/A,2
+God of War,50525,21,#N/A,3
+Pokemon Detective Pikachu,40789,21,135283,4
+Game of Thrones,33947,21,#N/A,5
+Disney+,33592,21,108162,6
+SEGA Genesis Mini,32973,21,83273,7
+Shazam!,32860,21,#N/A,8
+Netflix,29214,21,#N/A,9
+Mortal Kombat 11,262323,22,399373,0
+Game of Thrones,168603,22,33947,1
+Game of Thrones: Season 8,159884,22,61875,2
+A Knight of the Seven Kingdoms,131493,22,#N/A,3
+Avengers: Endgame,78057,22,60561,4
+Avengers: Infinity War,48852,22,#N/A,5
+Red Dead Redemption 2,32261,22,#N/A,6
+God of War,29959,22,50525,7
+Shazam!,21185,22,32860,8
+Other,19145,22,#N/A,9
+Mortal Kombat 11,493240,23,262323,0
+Game of Thrones,485151,23,168603,1
+Game of Thrones: Season 8,473621,23,159884,2
+A Knight of the Seven Kingdoms,138171,23,131493,3
+Avengers: Endgame,87690,23,78057,4
+Red Dead Redemption 2,79558,23,32261,5
+Samsung,43436,23,#N/A,6
+Kingdom Hearts III,39256,23,#N/A,7
+Other,23536,23,19145,8
+Fortnite,22702,23,#N/A,9
+Avengers: Endgame,525540,24,87690,0
+Mortal Kombat 11,158153,24,493240,1
+Game of Thrones: Season 8,136666,24,473621,2
+Game of Thrones,132027,24,485151,3
+SteamWorld Quest: Hand of Gilgamech,81759,24,#N/A,4
+Pokemon Detective Pikachu,62788,24,#N/A,5
+The Elder Scrolls: Blades,60926,24,#N/A,6
+Gotham,48282,24,#N/A,7
+Marvel's Spider-Man,38751,24,#N/A,8
+Arrow,33136,24,#N/A,9
+Game of Thrones: Season 8,543260,25,136666,0
+Avengers: Endgame,501238,25,525540,1
+World War Z,118178,25,#N/A,2
+Captain Marvel,110045,25,#N/A,3
+Call of Duty: Modern Warfare 3,100595,25,#N/A,4
+Mortal Kombat 11,90242,25,158153,5
+James Bond 25,83590,25,#N/A,6
+Netflix,77275,25,#N/A,7
+Pokemon Detective Pikachu,49888,25,62788,8
+Game of Thrones,48696,25,132027,9
+Days Gone,448889,26,#N/A,0
+Avengers: Endgame,413081,26,501238,1
+The Beginning...,158715,26,#N/A,2
+Gotham,145279,26,#N/A,3
+Game of Thrones: Season 8,141451,26,543260,4
+Mortal Kombat 11,108695,26,90242,5
+James Bond 25,87120,26,83590,6
+Imperator: Rome,48873,26,#N/A,7
+World War Z,36085,26,118178,8
+Cobra Kai,34936,26,#N/A,9
+Avengers: Endgame,912062,27,413081,0
+Once Upon a Time in Hollywood,222090,27,#N/A,1
+The Beginning...,151848,27,158715,2
+Days Gone,125235,27,448889,3
+Mortal Kombat 11,86731,27,108695,4
+Batman [2016 - Current],71531,27,#N/A,5
+Game of Thrones: Season 8,34306,27,141451,6
+Captain Marvel,30751,27,#N/A,7
+Pokemon Sword,30493,27,#N/A,8
+Borderlands 3,28519,27,#N/A,9
+Avengers: Endgame,1263584,28,912062,0
+Days Gone,57203,28,125235,1
+Game of Thrones: Season 8,50265,28,34306,2
+Batman [2016 - Current],32150,28,71531,3
+Mortal Kombat 11,31452,28,86731,4
+Borderlands 3,28092,28,28519,5
+Once Upon a Time in Hollywood,25808,28,222090,6
+Kingdom Hearts III,19522,28,#N/A,7
+Game of Thrones,16354,28,#N/A,8
+Nintendo Labo VR Kit,14060,28,#N/A,9
+Avengers: Endgame,1784111,29,1263584,0
+The Long Night,339238,29,#N/A,1
+Game of Thrones: Season 8,281445,29,50265,2
+Game of Thrones,277978,29,16354,3
+Dark Phoenix,128742,29,#N/A,4
+Kingdom Hearts III,44476,29,19522,5
+Captain Marvel,41093,29,#N/A,6
+Red Dead Redemption 2,36422,29,#N/A,7
+Days Gone,29905,29,57203,8
+Mortal Kombat 11,28022,29,31452,9
+Avengers: Endgame,1172176,30,1784111,0
+The Long Night,860866,30,339238,1
+Game of Thrones,588249,30,277978,2
+Game of Thrones: Season 8,243400,30,281445,3
+Spider-Man: Far From Home,89588,30,#N/A,4
+Avengers: Infinity War,57956,30,#N/A,5
+The Fast & The Furious 9,47265,30,#N/A,6
+Harry Potter and the Prisoner of Azkaban,42161,30,#N/A,7
+Other,36498,30,#N/A,8
+Days Gone,23515,30,29905,9
+Avengers: Endgame,1082962,31,1172176,0
+Game of Thrones,189785,31,588249,1
+Sonic the Hedgehog: The Movie,180490,31,#N/A,2
+Borderlands 3,167139,31,#N/A,3
+The Long Night,142417,31,860866,4
+Game of Thrones: Season 8,116398,31,243400,5
+Marvel's The Defenders,68492,31,#N/A,6
+Assassin's Creed Odyssey,35745,31,#N/A,7
+Nintendo Switch,27509,31,#N/A,8
+Mortal Kombat 11,24393,31,#N/A,9
